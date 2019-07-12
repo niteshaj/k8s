@@ -2,7 +2,7 @@
 
 This is basic configuration used for local kubernetes setup. Please check official documents for production best practise 
 
-> **Note:** please make sure that you run Powershell as administrator
+> **Note:** Please make sure that you run powershell as administrator
 
  1. Go to docker setting --> kubernetes --> select check box **_Enable Kubernetes_** --> And click _**Apply**_
  2. Once installed you will get success message at bottom of the setting windows
